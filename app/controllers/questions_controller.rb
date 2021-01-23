@@ -1,7 +1,5 @@
 class QuestionsController < ApplicationController
   def ask
-
-    # @question = params[]
   end
 
   def answer
